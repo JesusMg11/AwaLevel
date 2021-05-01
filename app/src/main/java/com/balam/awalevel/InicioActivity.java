@@ -12,7 +12,7 @@ import com.skydoves.elasticviews.ElasticButton;
 
 public class InicioActivity extends AppCompatActivity {
 
-    //Declaración de variables
+    //Declaración de variables yea
     ElasticButton btnSalir, btnCargar ;
     PointerSpeedometer speedometer;
 

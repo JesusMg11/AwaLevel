@@ -21,7 +21,7 @@ import org.json.JSONObject;
 
 public class MainActivity extends AppCompatActivity {
 
-    //Declaracion de variables
+    //Declaracion de variables ss
     EditText etContra, etUsuario;
     ElasticButton btnInicio;
     SharedPreferences sesion;
